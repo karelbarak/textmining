@@ -2,7 +2,7 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-__author__ = "Karel Barák"
+__author__ = "Karel Barak"
 __date__ = "$8.9.2015 12:13:46$"
 
 import json
